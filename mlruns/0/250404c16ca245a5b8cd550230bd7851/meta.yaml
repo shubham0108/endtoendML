@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shubhamlohakare/Documents/GitHub/endtoendML/mlruns/0/250404c16ca245a5b8cd550230bd7851/artifacts
+end_time: 1712751763419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 250404c16ca245a5b8cd550230bd7851
+run_name: beautiful-moose-557
+run_uuid: 250404c16ca245a5b8cd550230bd7851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712751761760
+status: 3
+tags: []
+user_id: shubhamlohakare
